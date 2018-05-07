@@ -4,9 +4,24 @@
 
 ### Bareos
 
-[Bareos (Backup Archiving Recovery Open Sourced)](http://bugs.bareos.org) is a reliable, cross-network open source software for backup, archiving and recovery of data for all well-established operating systems. Emerged from the Bacula Project in 2010, Bareos was and is actively developed as a fork and enriched with lots of new features.
+[Bareos (Backup Archiving Recovery Open Sourced)](https://www.bareos.org/) is a reliable, cross-network open source software for backup, archiving and recovery of data for all well-established operating systems. Features of Bareos include amongst others:
 
-Thus Bareos today offers among other features LTO hardware encryption, bandwidth limitation and NDMP support. The source code of Bareos is available on https://github.com/bareos/bareos/ under the AGPL v3 license. Additionally Bareos offers binary package repositories for the major Linux distributions, other Unixes, MacOS and Windows.
+- True open source software; no open-core or other restrictions; License AGPLv3 
+- network based
+- backends include Ceph, Gluster, S3
+- multiple clients and storages possible; Active / passive clients possible
+- Backup Clients ('Bareos-FD') available on Linux, Windows, MacOS, Solaris, HP-UX, AIX, BSD 
+- Python plugin interface
+- SAN-Backups using NDMP (with DAR/DDAR); NDMP tape support 
+- Always Incremental Backup scheme
+- VMWare Plugin 
+- Encryption
+- Scriptable CLI
+- web based graphical interface (webui)
+- Role-based ACL support for commands and objects
+
+The source code of Bareos is available on https://github.com/bareos/ under the AGPL v3 license. Additionally Bareos offers binary package repositories for the major Linux distributions as well as for MacOS and Windows.
+
 
 ### Documentation
 
@@ -14,7 +29,7 @@ Thus Bareos today offers among other features LTO hardware encryption, bandwidth
 
 ### Contribute
 
-If you want to contribute somethings to this repo please read our contribution
+If you want to contribute something to this repo please read our contribution
 policy at
 
   * https://www.bareos.org/en/howto-contribute.html
@@ -23,12 +38,12 @@ policy at
 
 The Bareos project offers two mailing lists: bareos-users and bareos-devel.
 
- * bareos-users@googlegroups.com
- * bareos-devel@googlegroups.com
+ * https://groups.google.com/forum/#!forum/bareos-users
+ * https://groups.google.com/forum/#!forum/bareos-devel
 
 ### Bugtracker
 
-  * [http://bugs.bareos.org](http://bugs.bareos.org)
+  * [https://bugs.bareos.org](https://bugs.bareos.org)
 
 ### Packages
 
