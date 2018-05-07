@@ -12,21 +12,21 @@ Thus Bareos today offers among other features LTO hardware encryption, bandwidth
 
   * [http://doc.bareos.org](http://doc.bareos.org)
 
-### CONTRIBUTE
+### Contribute
 
 If you want to contribute somethings to this repo please read our contribution
 policy at
 
   * https://www.bareos.org/en/howto-contribute.html
 
-### MAILINGLISTS
+### Mailingslists
 
 The Bareos project offers two mailing lists: bareos-users and bareos-devel.
 
  * bareos-users@googlegroups.com
  * bareos-devel@googlegroups.com
 
-### BUGTRACKER
+### Bugtracker
 
   * [http://bugs.bareos.org](http://bugs.bareos.org)
 
